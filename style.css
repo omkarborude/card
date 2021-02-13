@@ -29,3 +29,12 @@ body{
     height: 50px;
     margin-top: 10px;
 }
+.topleft{
+    padding: 10px;
+}
+.pimg{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border: turquoise solid;
+}
