@@ -31,10 +31,36 @@ body{
 }
 .topleft{
     padding: 10px;
+    float: left;
+    width: 50%;
 }
 .pimg{
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     border: turquoise solid;
 }
+.topmiddle{
+    float: right;
+    margin-top:  -35%;
+}
+.name{
+    font-size: 18px;
+    float: right;
+}
+.sofeng{
+    font-size: 12px;
+    float: right;
+    margin-right: 34px;
+    opacity: 0.6;
+    margin-top: -4%;
+}
+button{
+    float: right;
+    margin-top: 25px;
+    width: 90px;
+    height: 26px;
+    background-color: #0fb0e3;
+    border: none;
+    border-radius: 3px;
+ }
