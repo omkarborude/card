@@ -69,5 +69,6 @@ button{
     font-weight: 500;
  }
  button:hover{
+     cursor: pointer;
      
  }
