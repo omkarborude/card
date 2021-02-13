@@ -71,13 +71,22 @@ button{
     padding: 10px;
 }
 .middletext{
-
     font-size: 21px;
 }
 /* lower div */
 .lower{
-    background-color: red;
     width: 100%;
     height: 50px;
     margin-top: 10px;
+}
+
+.fas{
+    font-size: 25px;
+    margin-left: 10px;
+    color: red;
+}
+
+.lino{
+    color: black;
+    font-weight: 600;
 }
